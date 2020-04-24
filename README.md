@@ -1,2 +1,2 @@
 # 2019-modeling-soil-depth
-Modeling soil depth using different geostatistical methods
+Modeling distributed soil depth maps using different methods. Refer to the "Documentation" file for further details
